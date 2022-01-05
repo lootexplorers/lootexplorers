@@ -1,16 +1,14 @@
-### Hi there 👋
+## Loot Explorers Resources 🛠
 
-<!--
-**lootexplorers/lootexplorers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Loot Explorers are 8000 unique explorer characters decked out with gear found in the first 8000 genesis bags of loot. Putting a twist on the classic RPG style with chunky lines and juicy colors, each Explorer's design is influenced by the loot they carry mixed in with elements such as distinct classes & cool backdrops, all attached to uniquely generated name.
 
-Here are some ideas to get you started:
+### Open-sourced
+[Loot Explorers Subgraph](https://github.com/lootexplorers/loot-explorers-subgraph)
+- Easily retrieve tokens belonging to wallet address, current baseUri, etc. Feel free to expand the subgraph to include more if needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Hideouts](https://github.com/lootexplorers/hideouts)
+- Hideouts is a space for verified explorers to hangout, display their trophies, and let their explorers come out and play.
+
+### Community Made
+[Loot Explorer Dungeon](https://github.com/geggleto/loot-explorer-dungeon) by [@geggleto](https://twitter.com/geggleto)
+- Discord token verifier
