@@ -6,9 +6,6 @@ Loot Explorers are 8000 unique explorer characters decked out with gear found in
 [Loot Explorers Subgraph](https://github.com/lootexplorers/loot-explorers-subgraph)
 - Easily retrieve tokens belonging to wallet address, current baseUri, etc. Feel free to expand the subgraph to include more if needed.
 
-[Hideouts](https://github.com/lootexplorers/hideouts)
-- Hideouts is a space for verified explorers to hangout, display their trophies, and let their explorers come out and play.
-
 ### Community Made
 [Loot Explorer Dungeon](https://github.com/geggleto/loot-explorer-dungeon) by [@geggleto](https://twitter.com/geggleto)
 - Discord token verifier
